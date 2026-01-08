@@ -1,0 +1,15 @@
+Device 78:02:B7:3F:A6:90 Pulse Grand 2-A690
+Device 30:BF:52:02:26:C2 30-BF-52-02-26-C2
+Device 64:44:7B:CE:8A:F6 64-44-7B-CE-8A-F6
+Device 48:01:C5:FB:3F:C8 OnePlus 7T Pro
+Device 6A:0C:2B:C8:2B:4E 6A-0C-2B-C8-2B-4E
+Device 71:C6:52:17:F5:BD Mustang gtbeast
+Device 63:D3:00:6C:9C:C1 63-D3-00-6C-9C-C1
+Device 15:AF:BE:15:43:0F 15-AF-BE-15-43-0F
+Device 71:EA:C2:C2:D0:18 71-EA-C2-C2-D0-18
+Device 5B:A3:A7:7F:6B:93 Boult Audio Airbass
+Device 08:E4:DF:17:3B:31 Airdopes 141 ANC
+Device E4:5E:58:EB:FB:E6 AIRDOPES 161 neo
+Device 90:A0:BE:5F:D9:69 Nirvana Ion ANC
+Device 41:42:E7:C9:41:25 TWS
+Device C4:CB:BE:2C:9F:E1 realme Buds T110
